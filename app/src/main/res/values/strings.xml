@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto ML</string>
+    <string name="select_image">Select Image</string>
+    <string name="hasil">Hasil</string>
+</resources>
